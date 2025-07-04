@@ -1,16 +1,44 @@
-# recipe_app
+# Recipe App
 
-A new Flutter project.
+!
+!
+!
 
-## Getting Started
+# 💸 Expense Tracker App
 
-This project is a starting point for a Flutter application.
+A simple, intuitive Flutter app for food recipes. Users can view recipes, save recipes, and search as they need.
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 📱 Screenshots
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+| Home Screen | Add Expense | Expense Chart |
+|-------------|--------------|----------------|
+| ![Home Screen](assets/screenshots/home_page.png) | ![Recipe Detail Screen](assets/screenshots/recipe_details_page.png) | ![Saved Recipes Screen](assets/screenshots/saved_page.png) |
+
+---
+
+## 🚀 Features
+
+- 📊 Visualize list of recipes
+- 📝 Save recipes
+- 📅 Filter recipes by type
+- 💾 Persistent data with local storage
+
+---
+
+## 🛠️ Tech Stack
+
+- **Flutter** – UI development
+- **Dart** – Programming language
+- **Local storage** – For saving transactions
+
+---
+
+## 🧑‍💻 How to Run
+
+1. **Clone the repo**
+
+   ```bash
+   git clone https://github.com/Nirjal-shrestha14/recipe_app.git
+   cd recipe_app
