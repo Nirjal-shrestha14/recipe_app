@@ -1,10 +1,4 @@
-# Recipe App
-
-!
-!
-!
-
-# 💸 Expense Tracker App
+# 💸 Recipe App
 
 A simple, intuitive Flutter app for food recipes. Users can view recipes, save recipes, and search as they need.
 
