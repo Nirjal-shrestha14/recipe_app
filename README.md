@@ -1,4 +1,4 @@
-# 💸 Recipe App
+# 🍔 Recipe App
 
 A simple, intuitive Flutter app for food recipes. Users can view recipes, save recipes, and search as they need.
 
@@ -6,15 +6,15 @@ A simple, intuitive Flutter app for food recipes. Users can view recipes, save r
 
 ## 📱 Screenshots
 
-| Home Screen | Add Expense | Expense Chart |
-|-------------|--------------|----------------|
+| Home Screen | Recipe Detail Screen | Saved Screen |
+|-------------|----------------------|--------------|
 | ![Home Screen](assets/screenshots/home_page.png) | ![Recipe Detail Screen](assets/screenshots/recipe_details_page.png) | ![Saved Recipes Screen](assets/screenshots/saved_page.png) |
 
 ---
 
 ## 🚀 Features
 
-- 📊 Visualize list of recipes
+- 📊 View & Search recipes
 - 📝 Save recipes
 - 📅 Filter recipes by type
 - 💾 Persistent data with local storage
@@ -25,7 +25,7 @@ A simple, intuitive Flutter app for food recipes. Users can view recipes, save r
 
 - **Flutter** – UI development
 - **Dart** – Programming language
-- **Local storage** – For saving transactions
+- **Local storage** – For saving recipes
 
 ---
 
