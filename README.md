@@ -12,6 +12,12 @@ A simple, intuitive Flutter app for food recipes. Users can view recipes, save r
 
 ---
 
+## 📱 Working Videos
+
+![Working_Video](assets/how_app_works/recording.mp4)#  🍔 Recipe App
+
+---
+
 ## 🚀 Features
 
 - 📊 View & Search recipes
